@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![Yuxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuxinLi1&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuxinLi1&layout=compact&exclude_repo=YuxinLi1.github.io&theme=gruvbox)
+![Yuxin's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuxinLi1&theme=dracula)
