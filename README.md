@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Yuxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuxinLi1&
-hide=contribs,prs&show_icons=true&theme=radical)
+![Yuxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuxinLi1&hide=contribs,prs&show_icons=true&theme=radical)
